@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1726276822204,
+      "tag": "0000_soft_masque",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1726277999621,
+      "tag": "0001_adorable_the_enforcers",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1726278263329,
+      "tag": "0002_worthless_proudstar",
+      "breakpoints": true
+    }
+  ]
+}
