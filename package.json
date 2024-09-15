@@ -8,6 +8,7 @@
     "start": "NODE_ENV=production bun dist/server.js",
     "test": "bun test",
     "generate": "drizzle-kit generate",
+    "studio": "drizzle-kit studio",
     "migrate": "bun src/db/migrate.ts"
   },
   "devDependencies": {
