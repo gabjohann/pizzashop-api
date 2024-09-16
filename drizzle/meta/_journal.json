@@ -22,6 +22,13 @@
       "when": 1726278263329,
       "tag": "0002_worthless_proudstar",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1726489689166,
+      "tag": "0003_dazzling_lionheart",
+      "breakpoints": true
     }
   ]
 }
